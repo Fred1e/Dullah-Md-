@@ -57,39 +57,39 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*BONIPHACE MD 💥 PAIRING CODE CONNECTED*
+*DULLAH MD 💥 PAIRING CODE CONNECTED*
 
-> You have completed the first step of Deploying *BONIPHACE_MD 💥*
+> You have completed the first step of Deploying *DULLAH_MD 💥*
 > Copy the above session Id and deploy your bot.
-> ASK DEVELOPER BONIPHACE TEACH FOR BOT DEPLOYMENT ✅ 
+> ASK DEVELOPER DULLA FOR BOT DEPLOYMENT ✅ 
 > Meanwhile you must follow the 4 steps. 
 
 > 1st STEP
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G_*
+𓄂 *_https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_*
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/CxRzSiKKqWf07cEBKh9FGs_*
+𓄂 *_https://chat.whatsapp.com/J13se1OEvHj647nNBssAT2_*
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/boniphace704/boniphace_md_*
+𓄂 *_https://github.com/Fred1e/Dullah-Md_*
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://youtube.com/@anthonyboniphace?si=7byoUZRggglmaISe_*
+𓄂 *_https://www.youtube.com/@freeonlinetvT1_*
 
-*DEVELOPER1: BONIPHACE TECH*
-𓄂 *_https://t.me/+255716661569_*
+*DEVELOPER1: Mr Dulla*
+𓄂 *_https://t.me/255716945971*
 
-*DEVELOPER2: BONIPHACE_TECH*
-𓄂 *_https://t.me/+255716661569_*
+*DEVELOPER2: FREDIE_TECH*
+𓄂 *_https://t.me/255686745716_*
 > Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
 
-> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY BONIPHACE TEACH ✅✅`
+> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY MR DULLA ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
