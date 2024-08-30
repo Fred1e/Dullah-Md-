@@ -1,16 +1,16 @@
-# *MADE WITH 🤍 BY FREDIE TECH*
+# Dullah md session
+- Kindly star my repo
+- Fork and edit as you wish
+- Deploy to your favourite hosting server eg Heroku or Render or self hosting
 
+<strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
 
-## *NOTE*
-- *SESSION ID GENERATOR FOR X-ASENA AND SECKTOR MD BASED BOTS*
-- *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO USE*
-- *"maher-zubair-baileys": "^6.6.5" OR "@whiskeysockets/baileys": "^6.5.0" IN YOUR BOT*
-- *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
+# kindly fork the repo now
+use the below button to fork the repo and edit for session id for your bot
 
+***Click [`FORK`](https://github.com/Fred1e/Dullah-md-/fork) and `Star ⭐ Repository` for Courage.***
 
-## *DEPLOYMENT METHODS*
-- ***DEPLOY ON `HEROKU` OR `RENDER` OR ANY PLATFROM YOU LIKE***
-- ***CREATE HEROKU OR RENDER ACCOUNT***
-- ***CREATE NEW APP AND CONNECT YOUR REPOSITORY USING GITHUB***
-- ***THEN DEPLOY THE REPO AND BOOM 💥***
-- ***DON'T FORGOT TO STAR THE REPO***
+# now heroku deploy ✍️👋
+deploy your session id to heroku below 👇👇👇👇
+
+***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-md-)***
